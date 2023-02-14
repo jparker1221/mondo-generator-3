@@ -10,7 +10,9 @@ N/A
 
 ## Usage
 
-![My webpage includes a navigation bar with links that will take you to the corresponding sections of my portfolio.](./assets/images/screenshot.png)
+https://jparker1221.github.io/mondo-generator-3/
+
+![My webpage includes a navigation bar with links that will take you to the corresponding sections of my portfolio.](./assets/screenshot.png)
 
 ## Credits
 
